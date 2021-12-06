@@ -29,5 +29,5 @@ Remember to set the localizable texts
 "ImagePickerButton.ActionSheet.Title" = "Chose an action";
 "ImagePickerButton.ActionSheet.Message" = "From where would you like to import the picture?";
 "ImagePickerButton.ActionSheet.CameraButton.Title" = "Take a picture";
-"ImagePickerButton.ActionSheet.LibraryButton.Title" = "Chose from library";
+"ImagePickerButton.ActionSheet.LibraryButton.Title" = "Choose from library";
 ```
